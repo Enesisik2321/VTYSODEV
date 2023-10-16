@@ -1,0 +1,198 @@
+<mxfile host="app.diagrams.net" modified="2023-10-16T20:40:26.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="gNecTbMUYSgEqoyJyfnQ" version="22.0.4" type="device">
+  <diagram name="Sayfa -1" id="J2jmNwC77fxQj3JxbTMI">
+    <mxGraphModel dx="2577" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ezGW8gAiQeOCPUTTzsah-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-59" value="ÜYELER" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="35" y="73" width="200" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-66" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;Telefon" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-59">
+          <mxGeometry x="-15" y="147" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-67" value="Adres No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-59">
+          <mxGeometry x="5" y="177" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-63" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Üye No (PK)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-59">
+          <mxGeometry x="-45" y="27" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-64" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Cinsiyet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-59">
+          <mxGeometry x="-20" y="117" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-69" value="E-posta" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-59">
+          <mxGeometry x="10" y="207" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-61" value="&amp;nbsp;Üye adı&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-59">
+          <mxGeometry y="57" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-62" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Üye Soyadı" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-59">
+          <mxGeometry x="-40" y="87" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-71" value="ADRESLER" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="414" y="88" width="136" height="332" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-72" value="Ülke" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-71">
+          <mxGeometry x="9" y="52" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-73" value="Şehir" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-71">
+          <mxGeometry x="9" y="82" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-74" value="Mahalle" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-71">
+          <mxGeometry x="4" y="112" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-75" value="Cadde" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-71">
+          <mxGeometry x="4" y="142" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-76" value="Bina No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-71">
+          <mxGeometry x="4" y="172" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-77" value="Adres No (PK)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-71">
+          <mxGeometry x="9" y="22" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-78" value="Posta Kodu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-71">
+          <mxGeometry x="4" y="202" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-79" value="Kütüphane No (FK)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-71">
+          <mxGeometry x="4" y="232" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-82" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="300" as="sourcePoint" />
+            <mxPoint x="720" y="252.39996337890625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ezGW8gAiQeOCPUTTzsah-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="360" />
+              <mxPoint x="820" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ezGW8gAiQeOCPUTTzsah-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-83" value="KÜTÜPHANE" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="720" y="164" width="200" height="196" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-84" value="Kütüphane No (PK)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-83">
+          <mxGeometry x="-3" y="34" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-85" value="Kütüphane İsmi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-83">
+          <mxGeometry x="-3" y="64" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-86" value="Açıklama" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-83">
+          <mxGeometry y="94" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-87" value="Emanet No (FK)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-83">
+          <mxGeometry y="124" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-88" value="ISBN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-83">
+          <mxGeometry y="154" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ezGW8gAiQeOCPUTTzsah-91">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="707" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-91" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="707" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-94" value="KİTAPLAR" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="540" width="190" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-95" value="ISBN (FK)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-94">
+          <mxGeometry y="30" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-96" value="Yayın Tarihi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-94">
+          <mxGeometry x="-5" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-97" value="Kitap Adı" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-94">
+          <mxGeometry y="90" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-98" value="Sayfa Sayısı" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-94">
+          <mxGeometry x="-5" y="118" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-99" value="Kategoriler No (FK)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-94">
+          <mxGeometry x="-5" y="148" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ezGW8gAiQeOCPUTTzsah-94" source="ezGW8gAiQeOCPUTTzsah-100">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="45" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-100" value="Yazar No (FK)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-94">
+          <mxGeometry x="-5" y="178" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-101" value="EMANET" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="250" width="150" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-102" value="Emanet No (FK)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-101">
+          <mxGeometry x="-10" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-103" value="Emanet Tarihi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-101">
+          <mxGeometry x="-10" y="58" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-104" value="Teslim Tarihi" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-101">
+          <mxGeometry x="-10" y="88" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-105" value="ISBN (FK)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-101">
+          <mxGeometry x="-10" y="118" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-110" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1050" y="610" as="sourcePoint" />
+            <mxPoint x="800" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="980" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-114" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;left=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="980" y="410" width="135" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-116" value="KATEGORİLER" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="605" y="850" width="195" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-118" value="Kategori No (PK)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-116">
+          <mxGeometry y="28" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-119" value="Kategori Adı&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-116">
+          <mxGeometry y="58" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-123" value="YAZARLAR" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="300" y="550" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-125" value="Yazar No (PK)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-123">
+          <mxGeometry y="30" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-126" value="Yazar Adı" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-123">
+          <mxGeometry y="60" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-127" value="Yazar Soyadı" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="ezGW8gAiQeOCPUTTzsah-123">
+          <mxGeometry y="90" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-124" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="607.5" y="630" as="sourcePoint" />
+            <mxPoint x="440" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-128" value="VERİ TABANI YÖETİM SİSTEMLERİ 2 DERSİ 2. HAFTA ÖDEVİ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="848" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ezGW8gAiQeOCPUTTzsah-129" value="MUHAMMED ENES IŞIK&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;223010710020" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="885" width="260" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
